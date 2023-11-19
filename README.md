@@ -1,6 +1,7 @@
 # practice-selenium
 
 ### To create selenium grid using docker compose
+Install Docker
 `cd dockerFiles/`
 
 `docker-compose -p selenium-infra up --scale firefox_108=2 --scale firefox_109=2 --scale chrome_111=2 --scale chrome_110=2 --force-recreate -d
