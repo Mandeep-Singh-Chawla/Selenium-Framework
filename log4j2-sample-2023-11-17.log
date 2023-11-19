@@ -1,0 +1,354 @@
+[INFO ] 11:53:50.715 [selenium-practice] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 11:54:47.665 [selenium-practice] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 11:56:00.496 [selenium-practice] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:39:41.101 [selenium-practice] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:40:16.151 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:40:16.151 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:40:16.151 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:40:16.151 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:40:16.151 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:40:27.380 [Registration Flow] - [ChromeDriver: chrome on MAC (038f705c9a6de1964ef820d9e515de00)] - Created Webdriver instance 
+[INFO ] 15:40:27.380 [Registration Flow] - [ChromeDriver: chrome on MAC (06bb2d403d7d3c624f81727bf51bb9fe)] - Created Webdriver instance 
+[INFO ] 15:40:27.380 [Registration Flow] - [ChromeDriver: chrome on MAC (1e77db9960d6a73d20f6d10af40924a7)] - Created Webdriver instance 
+[INFO ] 15:40:27.380 [Registration Flow] - [ChromeDriver: chrome on MAC (642ad38634ee961baab3caa90612631f)] - Created Webdriver instance 
+[INFO ] 15:40:27.380 [Registration Flow] - [ChromeDriver: chrome on MAC (1a92c99ef5c2abf682605f5a8cb601ed)] - Created Webdriver instance 
+[INFO ] 15:40:28.148 [Registration Flow] - Start of TestRegistrationFlow4
+[INFO ] 15:40:28.149 [Registration Flow] - Start of TestRegistrationFlow1
+[INFO ] 15:40:28.149 [Registration Flow] - Start of TestRegistrationFlow2
+[INFO ] 15:40:28.152 [Registration Flow] - Start of TestRegistrationFlow5
+[INFO ] 15:40:28.152 [Registration Flow] - Start of TestRegistrationFlow3
+[INFO ] 15:40:28.633 [Registration Flow] - [ChromeDriver: chrome on MAC (038f705c9a6de1964ef820d9e515de00)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:40:28.633 [Registration Flow] - [ChromeDriver: chrome on MAC (06bb2d403d7d3c624f81727bf51bb9fe)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:40:28.635 [Registration Flow] - [ChromeDriver: chrome on MAC (1e77db9960d6a73d20f6d10af40924a7)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:40:28.636 [Registration Flow] - [ChromeDriver: chrome on MAC (642ad38634ee961baab3caa90612631f)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:40:28.637 [Registration Flow] - [ChromeDriver: chrome on MAC (1a92c99ef5c2abf682605f5a8cb601ed)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:40:48.836 [Registration Flow] - [ChromeDriver: chrome on MAC (1e77db9960d6a73d20f6d10af40924a7)] - Waiting for FirstName to be visible..
+[INFO ] 15:40:49.262 [Registration Flow] - [ChromeDriver: chrome on MAC (06bb2d403d7d3c624f81727bf51bb9fe)] - Waiting for FirstName to be visible..
+[INFO ] 15:40:49.413 [Registration Flow] - [ChromeDriver: chrome on MAC (038f705c9a6de1964ef820d9e515de00)] - Waiting for FirstName to be visible..
+[INFO ] 15:40:50.088 [Registration Flow] - [ChromeDriver: chrome on MAC (1a92c99ef5c2abf682605f5a8cb601ed)] - Waiting for FirstName to be visible..
+[INFO ] 15:40:50.147 [Registration Flow] - [ChromeDriver: chrome on MAC (642ad38634ee961baab3caa90612631f)] - Waiting for FirstName to be visible..
+[INFO ] 15:40:50.813 [Registration Flow] - [ChromeDriver: chrome on MAC (1e77db9960d6a73d20f6d10af40924a7)] - inside enterContactInfo
+[INFO ] 15:40:50.910 [Registration Flow] - [ChromeDriver: chrome on MAC (038f705c9a6de1964ef820d9e515de00)] - inside enterContactInfo
+[INFO ] 15:40:50.998 [Registration Flow] - [ChromeDriver: chrome on MAC (06bb2d403d7d3c624f81727bf51bb9fe)] - inside enterContactInfo
+[INFO ] 15:40:51.408 [Registration Flow] - [ChromeDriver: chrome on MAC (642ad38634ee961baab3caa90612631f)] - inside enterContactInfo
+[INFO ] 15:40:51.479 [Registration Flow] - [ChromeDriver: chrome on MAC (1a92c99ef5c2abf682605f5a8cb601ed)] - inside enterContactInfo
+[INFO ] 15:40:56.279 [Registration Flow] - [ChromeDriver: chrome on MAC (1e77db9960d6a73d20f6d10af40924a7)] - inside enterUserInfo
+[INFO ] 15:40:57.043 [Registration Flow] - [ChromeDriver: chrome on MAC (038f705c9a6de1964ef820d9e515de00)] - inside enterUserInfo
+[INFO ] 15:40:57.079 [Registration Flow] - [ChromeDriver: chrome on MAC (06bb2d403d7d3c624f81727bf51bb9fe)] - inside enterUserInfo
+[INFO ] 15:40:57.604 [Registration Flow] - [ChromeDriver: chrome on MAC (642ad38634ee961baab3caa90612631f)] - inside enterUserInfo
+[INFO ] 15:40:58.063 [Registration Flow] - [ChromeDriver: chrome on MAC (1a92c99ef5c2abf682605f5a8cb601ed)] - inside enterUserInfo
+[INFO ] 15:40:58.481 [Registration Flow] - [ChromeDriver: chrome on MAC (06bb2d403d7d3c624f81727bf51bb9fe)] - inside submitInfo
+[INFO ] 15:40:58.526 [Registration Flow] - [ChromeDriver: chrome on MAC (038f705c9a6de1964ef820d9e515de00)] - inside submitInfo
+[INFO ] 15:40:58.975 [Registration Flow] - [ChromeDriver: chrome on MAC (642ad38634ee961baab3caa90612631f)] - inside submitInfo
+[INFO ] 15:40:59.341 [Registration Flow] - [ChromeDriver: chrome on MAC (1a92c99ef5c2abf682605f5a8cb601ed)] - inside submitInfo
+[INFO ] 15:41:00.225 [Registration Flow] - [ChromeDriver: chrome on MAC (1e77db9960d6a73d20f6d10af40924a7)] - inside submitInfo
+[INFO ] 15:41:13.968 [Registration Flow] - [ChromeDriver: chrome on MAC (038f705c9a6de1964ef820d9e515de00)] - Waiting for next page to be visible..
+[INFO ] 15:41:14.444 [Registration Flow] - [ChromeDriver: chrome on MAC (1e77db9960d6a73d20f6d10af40924a7)] - Waiting for next page to be visible..
+[INFO ] 15:41:14.754 [Registration Flow] - [ChromeDriver: chrome on MAC (642ad38634ee961baab3caa90612631f)] - Waiting for next page to be visible..
+[INFO ] 15:41:14.932 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:41:15.257 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:41:15.436 [Registration Flow] - [ChromeDriver: chrome on MAC (06bb2d403d7d3c624f81727bf51bb9fe)] - Waiting for next page to be visible..
+[INFO ] 15:41:15.479 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:41:16.082 [Registration Flow] - [ChromeDriver: chrome on MAC (1a92c99ef5c2abf682605f5a8cb601ed)] - Waiting for next page to be visible..
+[INFO ] 15:41:16.098 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:41:16.906 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:45:11.085 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:45:11.085 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:45:11.085 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:45:11.085 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:45:11.085 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:47:35.049 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:47:35.049 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:47:35.049 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:47:35.049 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:47:35.049 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:48:16.855 [selenium-practice] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:48:59.132 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:48:59.132 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:48:59.132 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:48:59.132 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:48:59.132 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:49:09.970 [Registration Flow] - [ChromeDriver: chrome on MAC (28b4f42d24715fc092f416690eb4128e)] - Created Webdriver instance 
+[INFO ] 15:49:09.972 [Registration Flow] - [ChromeDriver: chrome on MAC (96d6da3fe1934c0f7b404b595048b8d5)] - Created Webdriver instance 
+[INFO ] 15:49:09.970 [Registration Flow] - [ChromeDriver: chrome on MAC (8d1dfc4a890e2e15cc8ecf1011ce36e9)] - Created Webdriver instance 
+[INFO ] 15:49:09.971 [Registration Flow] - [ChromeDriver: chrome on MAC (4ae2f8ad89857a94a9ee9c72fa0645ee)] - Created Webdriver instance 
+[INFO ] 15:49:09.973 [Registration Flow] - [ChromeDriver: chrome on MAC (f31fd4469bea6f876abfc5c374e334b8)] - Created Webdriver instance 
+[INFO ] 15:49:10.652 [Registration Flow] - Start of TestRegistrationFlow1
+[INFO ] 15:49:10.652 [Registration Flow] - Start of TestRegistrationFlow4
+[INFO ] 15:49:10.652 [Registration Flow] - Start of TestRegistrationFlow3
+[INFO ] 15:49:10.652 [Registration Flow] - Start of TestRegistrationFlow5
+[INFO ] 15:49:10.653 [Registration Flow] - Start of TestRegistrationFlow2
+[INFO ] 15:49:10.843 [Registration Flow] - [ChromeDriver: chrome on MAC (4ae2f8ad89857a94a9ee9c72fa0645ee)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:49:10.843 [Registration Flow] - [ChromeDriver: chrome on MAC (f31fd4469bea6f876abfc5c374e334b8)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:49:10.843 [Registration Flow] - [ChromeDriver: chrome on MAC (28b4f42d24715fc092f416690eb4128e)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:49:10.843 [Registration Flow] - [ChromeDriver: chrome on MAC (96d6da3fe1934c0f7b404b595048b8d5)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:49:10.846 [Registration Flow] - [ChromeDriver: chrome on MAC (8d1dfc4a890e2e15cc8ecf1011ce36e9)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:49:29.170 [Registration Flow] - [ChromeDriver: chrome on MAC (8d1dfc4a890e2e15cc8ecf1011ce36e9)] - Waiting for FirstName to be visible..
+[INFO ] 15:49:29.910 [Registration Flow] - [ChromeDriver: chrome on MAC (f31fd4469bea6f876abfc5c374e334b8)] - Waiting for FirstName to be visible..
+[INFO ] 15:49:29.993 [Registration Flow] - [ChromeDriver: chrome on MAC (4ae2f8ad89857a94a9ee9c72fa0645ee)] - Waiting for FirstName to be visible..
+[INFO ] 15:49:30.814 [Registration Flow] - [ChromeDriver: chrome on MAC (28b4f42d24715fc092f416690eb4128e)] - Waiting for FirstName to be visible..
+[INFO ] 15:49:31.019 [Registration Flow] - [ChromeDriver: chrome on MAC (8d1dfc4a890e2e15cc8ecf1011ce36e9)] - inside enterContactInfo
+[INFO ] 15:49:31.072 [Registration Flow] - [ChromeDriver: chrome on MAC (96d6da3fe1934c0f7b404b595048b8d5)] - Waiting for FirstName to be visible..
+[INFO ] 15:49:31.083 [Registration Flow] - [ChromeDriver: chrome on MAC (f31fd4469bea6f876abfc5c374e334b8)] - inside enterContactInfo
+[INFO ] 15:49:31.139 [Registration Flow] - [ChromeDriver: chrome on MAC (4ae2f8ad89857a94a9ee9c72fa0645ee)] - inside enterContactInfo
+[INFO ] 15:49:32.054 [Registration Flow] - [ChromeDriver: chrome on MAC (28b4f42d24715fc092f416690eb4128e)] - inside enterContactInfo
+[INFO ] 15:49:32.654 [Registration Flow] - [ChromeDriver: chrome on MAC (96d6da3fe1934c0f7b404b595048b8d5)] - inside enterContactInfo
+[INFO ] 15:49:36.254 [Registration Flow] - [ChromeDriver: chrome on MAC (8d1dfc4a890e2e15cc8ecf1011ce36e9)] - inside enterUserInfo
+[INFO ] 15:49:36.286 [Registration Flow] - [ChromeDriver: chrome on MAC (f31fd4469bea6f876abfc5c374e334b8)] - inside enterUserInfo
+[INFO ] 15:49:36.428 [Registration Flow] - [ChromeDriver: chrome on MAC (4ae2f8ad89857a94a9ee9c72fa0645ee)] - inside enterUserInfo
+[INFO ] 15:49:37.473 [Registration Flow] - [ChromeDriver: chrome on MAC (f31fd4469bea6f876abfc5c374e334b8)] - inside submitInfo
+[INFO ] 15:49:37.898 [Registration Flow] - [ChromeDriver: chrome on MAC (28b4f42d24715fc092f416690eb4128e)] - inside enterUserInfo
+[INFO ] 15:49:37.981 [Registration Flow] - [ChromeDriver: chrome on MAC (4ae2f8ad89857a94a9ee9c72fa0645ee)] - inside submitInfo
+[INFO ] 15:49:37.983 [Registration Flow] - [ChromeDriver: chrome on MAC (8d1dfc4a890e2e15cc8ecf1011ce36e9)] - inside submitInfo
+[INFO ] 15:49:38.275 [Registration Flow] - [ChromeDriver: chrome on MAC (96d6da3fe1934c0f7b404b595048b8d5)] - inside enterUserInfo
+[INFO ] 15:49:39.080 [Registration Flow] - [ChromeDriver: chrome on MAC (28b4f42d24715fc092f416690eb4128e)] - inside submitInfo
+[INFO ] 15:49:39.442 [Registration Flow] - [ChromeDriver: chrome on MAC (96d6da3fe1934c0f7b404b595048b8d5)] - inside submitInfo
+[INFO ] 15:49:54.288 [Registration Flow] - [ChromeDriver: chrome on MAC (f31fd4469bea6f876abfc5c374e334b8)] - Waiting for next page to be visible..
+[INFO ] 15:49:56.155 [Registration Flow] - [ChromeDriver: chrome on MAC (8d1dfc4a890e2e15cc8ecf1011ce36e9)] - Waiting for next page to be visible..
+[INFO ] 15:49:56.333 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:49:57.111 [Registration Flow] - [ChromeDriver: chrome on MAC (96d6da3fe1934c0f7b404b595048b8d5)] - Waiting for next page to be visible..
+[INFO ] 15:49:57.221 [Registration Flow] - [ChromeDriver: chrome on MAC (28b4f42d24715fc092f416690eb4128e)] - Waiting for next page to be visible..
+[INFO ] 15:49:57.852 [Registration Flow] - [ChromeDriver: chrome on MAC (4ae2f8ad89857a94a9ee9c72fa0645ee)] - Waiting for next page to be visible..
+[INFO ] 15:49:58.193 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:49:58.268 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:49:58.789 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:49:59.992 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:52:02.146 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:52:02.146 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:52:02.146 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:52:02.146 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:52:02.146 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:52:07.121 [Registration Flow] - [ChromeDriver: chrome on MAC (8ca2b31b84c902cafb06d8da15d1c5f8)] - Created Webdriver instance 
+[INFO ] 15:52:07.122 [Registration Flow] - [ChromeDriver: chrome on MAC (ec4e41338b375e9f0a5f2d6a9ee7b4e4)] - Created Webdriver instance 
+[INFO ] 15:52:07.122 [Registration Flow] - [ChromeDriver: chrome on MAC (fbbaa534ebb65048387eb9be19a5a978)] - Created Webdriver instance 
+[INFO ] 15:52:07.121 [Registration Flow] - [ChromeDriver: chrome on MAC (fd4c3a57aad78404dd25b1cda48ce286)] - Created Webdriver instance 
+[INFO ] 15:52:07.122 [Registration Flow] - [ChromeDriver: chrome on MAC (0c562aad57f4e5e42ad45eec5e6e8ca1)] - Created Webdriver instance 
+[INFO ] 15:52:07.473 [Registration Flow] - Start of TestRegistrationFlow2
+[INFO ] 15:52:07.473 [Registration Flow] - Start of TestRegistrationFlow1
+[INFO ] 15:52:07.473 [Registration Flow] - Start of TestRegistrationFlow4
+[INFO ] 15:52:07.473 [Registration Flow] - Start of TestRegistrationFlow3
+[INFO ] 15:52:07.475 [Registration Flow] - Start of TestRegistrationFlow5
+[INFO ] 15:52:07.661 [Registration Flow] - [ChromeDriver: chrome on MAC (ec4e41338b375e9f0a5f2d6a9ee7b4e4)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:52:07.661 [Registration Flow] - [ChromeDriver: chrome on MAC (8ca2b31b84c902cafb06d8da15d1c5f8)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:52:07.662 [Registration Flow] - [ChromeDriver: chrome on MAC (0c562aad57f4e5e42ad45eec5e6e8ca1)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:52:07.661 [Registration Flow] - [ChromeDriver: chrome on MAC (fbbaa534ebb65048387eb9be19a5a978)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:52:07.662 [Registration Flow] - [ChromeDriver: chrome on MAC (fd4c3a57aad78404dd25b1cda48ce286)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:52:09.175 [Registration Flow] - [ChromeDriver: chrome on MAC (8ca2b31b84c902cafb06d8da15d1c5f8)] - Waiting for FirstName to be visible..
+[INFO ] 15:52:09.298 [Registration Flow] - [ChromeDriver: chrome on MAC (0c562aad57f4e5e42ad45eec5e6e8ca1)] - Waiting for FirstName to be visible..
+[INFO ] 15:52:24.174 [Registration Flow] - [ChromeDriver: chrome on MAC (fd4c3a57aad78404dd25b1cda48ce286)] - Waiting for FirstName to be visible..
+[INFO ] 15:52:24.182 [Registration Flow] - [ChromeDriver: chrome on MAC (fbbaa534ebb65048387eb9be19a5a978)] - Waiting for FirstName to be visible..
+[INFO ] 15:52:24.228 [Registration Flow] - [ChromeDriver: chrome on MAC (ec4e41338b375e9f0a5f2d6a9ee7b4e4)] - Waiting for FirstName to be visible..
+[INFO ] 15:52:25.262 [Registration Flow] - [ChromeDriver: chrome on MAC (8ca2b31b84c902cafb06d8da15d1c5f8)] - inside enterContactInfo
+[INFO ] 15:52:25.262 [Registration Flow] - [ChromeDriver: chrome on MAC (0c562aad57f4e5e42ad45eec5e6e8ca1)] - inside enterContactInfo
+[INFO ] 15:52:25.301 [Registration Flow] - [ChromeDriver: chrome on MAC (fd4c3a57aad78404dd25b1cda48ce286)] - inside enterContactInfo
+[INFO ] 15:52:25.377 [Registration Flow] - [ChromeDriver: chrome on MAC (fbbaa534ebb65048387eb9be19a5a978)] - inside enterContactInfo
+[INFO ] 15:52:25.399 [Registration Flow] - [ChromeDriver: chrome on MAC (ec4e41338b375e9f0a5f2d6a9ee7b4e4)] - inside enterContactInfo
+[INFO ] 15:52:30.400 [Registration Flow] - [ChromeDriver: chrome on MAC (fd4c3a57aad78404dd25b1cda48ce286)] - inside enterUserInfo
+[INFO ] 15:52:30.420 [Registration Flow] - [ChromeDriver: chrome on MAC (0c562aad57f4e5e42ad45eec5e6e8ca1)] - inside enterUserInfo
+[INFO ] 15:52:30.522 [Registration Flow] - [ChromeDriver: chrome on MAC (fbbaa534ebb65048387eb9be19a5a978)] - inside enterUserInfo
+[INFO ] 15:52:30.613 [Registration Flow] - [ChromeDriver: chrome on MAC (8ca2b31b84c902cafb06d8da15d1c5f8)] - inside enterUserInfo
+[INFO ] 15:52:30.784 [Registration Flow] - [ChromeDriver: chrome on MAC (ec4e41338b375e9f0a5f2d6a9ee7b4e4)] - inside enterUserInfo
+[INFO ] 15:52:31.588 [Registration Flow] - [ChromeDriver: chrome on MAC (0c562aad57f4e5e42ad45eec5e6e8ca1)] - inside submitInfo
+[INFO ] 15:52:31.624 [Registration Flow] - [ChromeDriver: chrome on MAC (fbbaa534ebb65048387eb9be19a5a978)] - inside submitInfo
+[INFO ] 15:52:31.634 [Registration Flow] - [ChromeDriver: chrome on MAC (fd4c3a57aad78404dd25b1cda48ce286)] - inside submitInfo
+[INFO ] 15:52:31.888 [Registration Flow] - [ChromeDriver: chrome on MAC (8ca2b31b84c902cafb06d8da15d1c5f8)] - inside submitInfo
+[INFO ] 15:52:32.150 [Registration Flow] - [ChromeDriver: chrome on MAC (ec4e41338b375e9f0a5f2d6a9ee7b4e4)] - inside submitInfo
+[INFO ] 15:52:44.692 [Registration Flow] - [ChromeDriver: chrome on MAC (0c562aad57f4e5e42ad45eec5e6e8ca1)] - Waiting for next page to be visible..
+[INFO ] 15:52:45.362 [Registration Flow] - [ChromeDriver: chrome on MAC (8ca2b31b84c902cafb06d8da15d1c5f8)] - Waiting for next page to be visible..
+[INFO ] 15:52:45.435 [Registration Flow] - [ChromeDriver: chrome on MAC (fd4c3a57aad78404dd25b1cda48ce286)] - Waiting for next page to be visible..
+[INFO ] 15:52:45.562 [Registration Flow] - [ChromeDriver: chrome on MAC (fbbaa534ebb65048387eb9be19a5a978)] - Waiting for next page to be visible..
+[INFO ] 15:52:45.582 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:52:45.793 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:52:45.954 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:52:46.169 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:52:46.336 [Registration Flow] - [ChromeDriver: chrome on MAC (ec4e41338b375e9f0a5f2d6a9ee7b4e4)] - Waiting for next page to be visible..
+[INFO ] 15:52:46.861 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:56:44.685 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:56:44.685 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:56:44.685 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:56:44.685 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:56:44.685 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:56:49.908 [Registration Flow] - [ChromeDriver: chrome on MAC (e1561547d842113225af297bd0918188)] - Created Webdriver instance 
+[INFO ] 15:56:49.908 [Registration Flow] - [ChromeDriver: chrome on MAC (e73dee56962a8c05883cc296465ec0f4)] - Created Webdriver instance 
+[INFO ] 15:56:49.912 [Registration Flow] - [ChromeDriver: chrome on MAC (eefa8c8c3a65fb428b8e4bb0def5802e)] - Created Webdriver instance 
+[INFO ] 15:56:49.912 [Registration Flow] - [ChromeDriver: chrome on MAC (b33341486689829281e1793d6a0436e9)] - Created Webdriver instance 
+[INFO ] 15:56:49.915 [Registration Flow] - [ChromeDriver: chrome on MAC (dfe2a5bb2029353310924b8fca92413d)] - Created Webdriver instance 
+[INFO ] 15:56:50.289 [Registration Flow] - Start of TestRegistrationFlow1
+[INFO ] 15:56:50.289 [Registration Flow] - Start of TestRegistrationFlow2
+[INFO ] 15:56:50.289 [Registration Flow] - Start of TestRegistrationFlow5
+[INFO ] 15:56:50.288 [Registration Flow] - Start of TestRegistrationFlow4
+[INFO ] 15:56:50.289 [Registration Flow] - Start of TestRegistrationFlow3
+[INFO ] 15:56:50.454 [Registration Flow] - [ChromeDriver: chrome on MAC (eefa8c8c3a65fb428b8e4bb0def5802e)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:56:50.454 [Registration Flow] - [ChromeDriver: chrome on MAC (b33341486689829281e1793d6a0436e9)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:56:50.454 [Registration Flow] - [ChromeDriver: chrome on MAC (e1561547d842113225af297bd0918188)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:56:50.454 [Registration Flow] - [ChromeDriver: chrome on MAC (e73dee56962a8c05883cc296465ec0f4)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:56:50.456 [Registration Flow] - [ChromeDriver: chrome on MAC (dfe2a5bb2029353310924b8fca92413d)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:56:52.226 [Registration Flow] - [ChromeDriver: chrome on MAC (e73dee56962a8c05883cc296465ec0f4)] - Waiting for FirstName to be visible..
+[INFO ] 15:56:52.292 [Registration Flow] - [ChromeDriver: chrome on MAC (b33341486689829281e1793d6a0436e9)] - Waiting for FirstName to be visible..
+[INFO ] 15:57:05.897 [Registration Flow] - [ChromeDriver: chrome on MAC (dfe2a5bb2029353310924b8fca92413d)] - Waiting for FirstName to be visible..
+[INFO ] 15:57:06.303 [Registration Flow] - [ChromeDriver: chrome on MAC (eefa8c8c3a65fb428b8e4bb0def5802e)] - Waiting for FirstName to be visible..
+[INFO ] 15:57:07.014 [Registration Flow] - [ChromeDriver: chrome on MAC (e1561547d842113225af297bd0918188)] - Waiting for FirstName to be visible..
+[INFO ] 15:57:07.224 [Registration Flow] - [ChromeDriver: chrome on MAC (eefa8c8c3a65fb428b8e4bb0def5802e)] - inside enterContactInfo
+[INFO ] 15:57:07.325 [Registration Flow] - [ChromeDriver: chrome on MAC (dfe2a5bb2029353310924b8fca92413d)] - inside enterContactInfo
+[INFO ] 15:57:07.971 [Registration Flow] - [ChromeDriver: chrome on MAC (e1561547d842113225af297bd0918188)] - inside enterContactInfo
+[INFO ] 15:57:08.797 [Registration Flow] - [ChromeDriver: chrome on MAC (b33341486689829281e1793d6a0436e9)] - inside enterContactInfo
+[INFO ] 15:57:09.078 [Registration Flow] - [ChromeDriver: chrome on MAC (e73dee56962a8c05883cc296465ec0f4)] - inside enterContactInfo
+[INFO ] 15:57:12.032 [Registration Flow] - [ChromeDriver: chrome on MAC (eefa8c8c3a65fb428b8e4bb0def5802e)] - inside enterUserInfo
+[INFO ] 15:57:12.647 [Registration Flow] - [ChromeDriver: chrome on MAC (dfe2a5bb2029353310924b8fca92413d)] - inside enterUserInfo
+[INFO ] 15:57:12.752 [Registration Flow] - [ChromeDriver: chrome on MAC (eefa8c8c3a65fb428b8e4bb0def5802e)] - inside submitInfo
+[INFO ] 15:57:13.195 [Registration Flow] - [ChromeDriver: chrome on MAC (e1561547d842113225af297bd0918188)] - inside enterUserInfo
+[INFO ] 15:57:13.358 [Registration Flow] - [ChromeDriver: chrome on MAC (dfe2a5bb2029353310924b8fca92413d)] - inside submitInfo
+[INFO ] 15:57:14.245 [Registration Flow] - [ChromeDriver: chrome on MAC (e73dee56962a8c05883cc296465ec0f4)] - inside enterUserInfo
+[INFO ] 15:57:14.315 [Registration Flow] - [ChromeDriver: chrome on MAC (e1561547d842113225af297bd0918188)] - inside submitInfo
+[INFO ] 15:57:14.385 [Registration Flow] - [ChromeDriver: chrome on MAC (b33341486689829281e1793d6a0436e9)] - inside enterUserInfo
+[INFO ] 15:57:15.366 [Registration Flow] - [ChromeDriver: chrome on MAC (e73dee56962a8c05883cc296465ec0f4)] - inside submitInfo
+[INFO ] 15:57:15.408 [Registration Flow] - [ChromeDriver: chrome on MAC (b33341486689829281e1793d6a0436e9)] - inside submitInfo
+[INFO ] 15:57:27.516 [Registration Flow] - [ChromeDriver: chrome on MAC (eefa8c8c3a65fb428b8e4bb0def5802e)] - Waiting for next page to be visible..
+[INFO ] 15:57:28.036 [Registration Flow] - [ChromeDriver: chrome on MAC (dfe2a5bb2029353310924b8fca92413d)] - Waiting for next page to be visible..
+[INFO ] 15:57:28.360 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:57:28.556 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:57:29.284 [Registration Flow] - [ChromeDriver: chrome on MAC (e1561547d842113225af297bd0918188)] - Waiting for next page to be visible..
+[INFO ] 15:57:29.625 [Registration Flow] - [ChromeDriver: chrome on MAC (e73dee56962a8c05883cc296465ec0f4)] - Waiting for next page to be visible..
+[INFO ] 15:57:29.915 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:57:29.949 [Registration Flow] - [ChromeDriver: chrome on MAC (b33341486689829281e1793d6a0436e9)] - Waiting for next page to be visible..
+[INFO ] 15:57:30.303 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:57:30.389 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 15:59:52.908 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:59:52.908 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:59:52.908 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:59:52.908 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:59:52.908 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 15:59:57.793 [Registration Flow] - [ChromeDriver: chrome on MAC (277761382ab9678b2adef3fef796c5ad)] - Created Webdriver instance 
+[INFO ] 15:59:57.793 [Registration Flow] - [ChromeDriver: chrome on MAC (fc7dd792e1f2bf8226bd768ffe85e927)] - Created Webdriver instance 
+[INFO ] 15:59:57.793 [Registration Flow] - [ChromeDriver: chrome on MAC (8fb96a9167e76e552f9dfb1124be750a)] - Created Webdriver instance 
+[INFO ] 15:59:57.793 [Registration Flow] - [ChromeDriver: chrome on MAC (b95f44a41e6db0618fdb4eb8f234adb2)] - Created Webdriver instance 
+[INFO ] 15:59:57.793 [Registration Flow] - [ChromeDriver: chrome on MAC (f277f2a601f7975b068f2b6c53e348ba)] - Created Webdriver instance 
+[INFO ] 15:59:58.121 [Registration Flow] - Start of TestRegistrationFlow3
+[INFO ] 15:59:58.121 [Registration Flow] - Start of TestRegistrationFlow1
+[INFO ] 15:59:58.121 [Registration Flow] - Start of TestRegistrationFlow5
+[INFO ] 15:59:58.121 [Registration Flow] - Start of TestRegistrationFlow4
+[INFO ] 15:59:58.121 [Registration Flow] - Start of TestRegistrationFlow2
+[INFO ] 15:59:58.285 [Registration Flow] - [ChromeDriver: chrome on MAC (fc7dd792e1f2bf8226bd768ffe85e927)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:59:58.285 [Registration Flow] - [ChromeDriver: chrome on MAC (8fb96a9167e76e552f9dfb1124be750a)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:59:58.285 [Registration Flow] - [ChromeDriver: chrome on MAC (f277f2a601f7975b068f2b6c53e348ba)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:59:58.285 [Registration Flow] - [ChromeDriver: chrome on MAC (b95f44a41e6db0618fdb4eb8f234adb2)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:59:58.285 [Registration Flow] - [ChromeDriver: chrome on MAC (277761382ab9678b2adef3fef796c5ad)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 15:59:59.984 [Registration Flow] - [ChromeDriver: chrome on MAC (277761382ab9678b2adef3fef796c5ad)] - Waiting for FirstName to be visible..
+[INFO ] 15:59:59.984 [Registration Flow] - [ChromeDriver: chrome on MAC (8fb96a9167e76e552f9dfb1124be750a)] - Waiting for FirstName to be visible..
+[INFO ] 16:00:00.037 [Registration Flow] - [ChromeDriver: chrome on MAC (b95f44a41e6db0618fdb4eb8f234adb2)] - Waiting for FirstName to be visible..
+[INFO ] 16:00:14.141 [Registration Flow] - [ChromeDriver: chrome on MAC (f277f2a601f7975b068f2b6c53e348ba)] - Waiting for FirstName to be visible..
+[INFO ] 16:00:14.957 [Registration Flow] - [ChromeDriver: chrome on MAC (fc7dd792e1f2bf8226bd768ffe85e927)] - Waiting for FirstName to be visible..
+[INFO ] 16:00:15.774 [Registration Flow] - [ChromeDriver: chrome on MAC (f277f2a601f7975b068f2b6c53e348ba)] - inside enterContactInfo
+[INFO ] 16:00:15.902 [Registration Flow] - [ChromeDriver: chrome on MAC (277761382ab9678b2adef3fef796c5ad)] - inside enterContactInfo
+[INFO ] 16:00:16.317 [Registration Flow] - [ChromeDriver: chrome on MAC (fc7dd792e1f2bf8226bd768ffe85e927)] - inside enterContactInfo
+[INFO ] 16:00:16.921 [Registration Flow] - [ChromeDriver: chrome on MAC (b95f44a41e6db0618fdb4eb8f234adb2)] - inside enterContactInfo
+[INFO ] 16:00:16.999 [Registration Flow] - [ChromeDriver: chrome on MAC (8fb96a9167e76e552f9dfb1124be750a)] - inside enterContactInfo
+[INFO ] 16:00:22.074 [Registration Flow] - [ChromeDriver: chrome on MAC (fc7dd792e1f2bf8226bd768ffe85e927)] - inside enterUserInfo
+[INFO ] 16:00:22.259 [Registration Flow] - [ChromeDriver: chrome on MAC (f277f2a601f7975b068f2b6c53e348ba)] - inside enterUserInfo
+[INFO ] 16:00:22.856 [Registration Flow] - [ChromeDriver: chrome on MAC (277761382ab9678b2adef3fef796c5ad)] - inside enterUserInfo
+[INFO ] 16:00:23.149 [Registration Flow] - [ChromeDriver: chrome on MAC (b95f44a41e6db0618fdb4eb8f234adb2)] - inside enterUserInfo
+[INFO ] 16:00:23.328 [Registration Flow] - [ChromeDriver: chrome on MAC (fc7dd792e1f2bf8226bd768ffe85e927)] - inside submitInfo
+[INFO ] 16:00:23.480 [Registration Flow] - [ChromeDriver: chrome on MAC (8fb96a9167e76e552f9dfb1124be750a)] - inside enterUserInfo
+[INFO ] 16:00:24.289 [Registration Flow] - [ChromeDriver: chrome on MAC (f277f2a601f7975b068f2b6c53e348ba)] - inside submitInfo
+[INFO ] 16:00:24.620 [Registration Flow] - [ChromeDriver: chrome on MAC (b95f44a41e6db0618fdb4eb8f234adb2)] - inside submitInfo
+[INFO ] 16:00:24.622 [Registration Flow] - [ChromeDriver: chrome on MAC (277761382ab9678b2adef3fef796c5ad)] - inside submitInfo
+[INFO ] 16:00:25.310 [Registration Flow] - [ChromeDriver: chrome on MAC (8fb96a9167e76e552f9dfb1124be750a)] - inside submitInfo
+[INFO ] 16:00:39.722 [Registration Flow] - [ChromeDriver: chrome on MAC (b95f44a41e6db0618fdb4eb8f234adb2)] - Waiting for next page to be visible..
+[INFO ] 16:00:39.788 [Registration Flow] - [ChromeDriver: chrome on MAC (f277f2a601f7975b068f2b6c53e348ba)] - Waiting for next page to be visible..
+[INFO ] 16:00:39.859 [Registration Flow] - [ChromeDriver: chrome on MAC (fc7dd792e1f2bf8226bd768ffe85e927)] - Waiting for next page to be visible..
+[INFO ] 16:00:40.049 [Registration Flow] - [ChromeDriver: chrome on MAC (277761382ab9678b2adef3fef796c5ad)] - Waiting for next page to be visible..
+[INFO ] 16:00:40.592 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 16:00:40.634 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 16:00:40.635 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 16:00:40.722 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 16:00:41.320 [Registration Flow] - [ChromeDriver: chrome on MAC (8fb96a9167e76e552f9dfb1124be750a)] - Waiting for next page to be visible..
+[INFO ] 16:00:42.031 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 20:20:37.894 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 20:20:37.895 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 20:20:37.894 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 20:20:37.895 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 20:20:37.894 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 21:00:31.137 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 21:00:35.810 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - Created Webdriver instance 
+[INFO ] 21:00:35.946 [Registration Flow] - Start of TestRegistrationFlow1
+[INFO ] 21:00:36.102 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 21:00:43.763 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - Waiting for FirstName to be visible..
+[INFO ] 21:00:44.288 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside enterContactInfo
+[INFO ] 21:00:46.011 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside enterUserInfo
+[INFO ] 21:00:46.407 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside submitInfo
+[INFO ] 21:00:50.617 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - Waiting for next page to be visible..
+[INFO ] 21:00:50.971 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 21:00:51.379 [Registration Flow] - Start of TestRegistrationFlow2
+[INFO ] 21:00:51.380 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 21:00:52.792 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - Waiting for FirstName to be visible..
+[INFO ] 21:00:53.158 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside enterContactInfo
+[INFO ] 21:00:53.818 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside enterUserInfo
+[INFO ] 21:00:54.274 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside submitInfo
+[INFO ] 21:00:58.102 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - Waiting for next page to be visible..
+[INFO ] 21:00:58.368 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 21:00:58.591 [Registration Flow] - Start of TestRegistrationFlow3
+[INFO ] 21:00:58.594 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 21:00:59.925 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - Waiting for FirstName to be visible..
+[INFO ] 21:01:00.230 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside enterContactInfo
+[INFO ] 21:01:00.634 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside enterUserInfo
+[INFO ] 21:01:01.080 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside submitInfo
+[INFO ] 21:01:04.912 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - Waiting for next page to be visible..
+[INFO ] 21:01:05.159 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 21:01:05.240 [Registration Flow] - Start of TestRegistrationFlow4
+[INFO ] 21:01:05.241 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 21:01:06.544 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - Waiting for FirstName to be visible..
+[INFO ] 21:01:06.801 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside enterContactInfo
+[INFO ] 21:01:07.248 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside enterUserInfo
+[INFO ] 21:01:07.595 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside submitInfo
+[INFO ] 21:01:11.280 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - Waiting for next page to be visible..
+[INFO ] 21:01:11.538 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 21:01:11.702 [Registration Flow] - Start of TestRegistrationFlow5
+[INFO ] 21:01:11.703 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 21:01:12.877 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - Waiting for FirstName to be visible..
+[INFO ] 21:01:13.116 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside enterContactInfo
+[INFO ] 21:01:13.514 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside enterUserInfo
+[INFO ] 21:01:13.861 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - inside submitInfo
+[INFO ] 21:01:15.673 [Registration Flow] - [ChromeDriver: chrome on MAC (e80a957db6ca32a1e7bee3ef5b709820)] - Waiting for next page to be visible..
+[INFO ] 21:01:15.991 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 21:02:10.761 [Registration Flow] - CREATING WEBDRIVER INSTANCE..
+[INFO ] 21:02:19.253 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - Created Webdriver instance 
+[INFO ] 21:02:19.408 [Registration Flow] - Start of TestRegistrationFlow1
+[INFO ] 21:02:19.618 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 21:02:26.155 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - Waiting for FirstName to be visible..
+[INFO ] 21:02:26.814 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside enterContactInfo
+[INFO ] 21:02:28.730 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside enterUserInfo
+[INFO ] 21:02:29.293 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside submitInfo
+[INFO ] 21:02:33.913 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - Waiting for next page to be visible..
+[INFO ] 21:02:34.302 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 21:02:34.766 [Registration Flow] - Start of TestRegistrationFlow2
+[INFO ] 21:02:34.768 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 21:02:37.857 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - Waiting for FirstName to be visible..
+[INFO ] 21:02:38.317 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside enterContactInfo
+[INFO ] 21:02:39.355 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside enterUserInfo
+[INFO ] 21:02:40.016 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside submitInfo
+[INFO ] 21:02:42.566 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - Waiting for next page to be visible..
+[INFO ] 21:02:42.900 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 21:02:43.181 [Registration Flow] - Start of TestRegistrationFlow3
+[INFO ] 21:02:43.182 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 21:02:45.149 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - Waiting for FirstName to be visible..
+[INFO ] 21:02:45.578 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside enterContactInfo
+[INFO ] 21:02:46.124 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside enterUserInfo
+[INFO ] 21:02:46.519 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside submitInfo
+[INFO ] 21:02:50.352 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - Waiting for next page to be visible..
+[INFO ] 21:02:50.650 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 21:02:50.736 [Registration Flow] - Start of TestRegistrationFlow4
+[INFO ] 21:02:50.738 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 21:02:51.934 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - Waiting for FirstName to be visible..
+[INFO ] 21:02:52.247 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside enterContactInfo
+[INFO ] 21:02:52.990 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside enterUserInfo
+[INFO ] 21:02:53.574 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside submitInfo
+[INFO ] 21:02:55.918 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - Waiting for next page to be visible..
+[INFO ] 21:02:56.304 [Registration Flow] - inside getConfTextValue - after attach
+[INFO ] 21:02:56.495 [Registration Flow] - Start of TestRegistrationFlow5
+[INFO ] 21:02:56.497 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside goTo - opening URL - https://demo.guru99.com/test/newtours/register.php
+[INFO ] 21:02:57.393 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - Waiting for FirstName to be visible..
+[INFO ] 21:02:57.780 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside enterContactInfo
+[INFO ] 21:02:58.978 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside enterUserInfo
+[INFO ] 21:02:59.807 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - inside submitInfo
+[INFO ] 21:03:02.285 [Registration Flow] - [ChromeDriver: chrome on MAC (0f7ec97a45c9aa2043f224f0a104c896)] - Waiting for next page to be visible..
+[INFO ] 21:03:02.572 [Registration Flow] - inside getConfTextValue - after attach

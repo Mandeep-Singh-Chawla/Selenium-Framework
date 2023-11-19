@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-18T11:32:55 IST" name="register-module" finished-at="2023-11-18T11:34:47 IST" duration-ms="112507">
+    <groups>
+    </groups>
+    <test started-at="2023-11-18T11:32:55 IST" name="Registration Flow" finished-at="2023-11-18T11:34:47 IST" duration-ms="112507">
+      <class name="com.newtours.tests.RegistrationTest">
+        <test-method is-config="true" signature="createDriver(org.testng.ITestContext)[pri:0, instance:com.newtours.tests.RegistrationTest@29c2c826]" started-at="2023-11-18T11:32:55 IST" name="createDriver" finished-at="2023-11-18T11:33:06 IST" duration-ms="10649" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@629dfb5a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method signature="TestRegistrationFlow1()[pri:0, instance:com.newtours.tests.RegistrationTest@29c2c826]" started-at="2023-11-18T11:33:06 IST" name="TestRegistrationFlow1" finished-at="2023-11-18T11:33:21 IST" duration-ms="15698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestRegistrationFlow1 -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:com.newtours.tests.RegistrationTest@29c2c826]" started-at="2023-11-18T11:33:21 IST" name="quitDriver" finished-at="2023-11-18T11:33:22 IST" duration-ms="481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method is-config="true" signature="createDriver(org.testng.ITestContext)[pri:0, instance:com.newtours.tests.RegistrationTest@29c2c826]" started-at="2023-11-18T11:33:22 IST" name="createDriver" finished-at="2023-11-18T11:33:29 IST" duration-ms="6613" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@629dfb5a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method signature="TestRegistrationFlow2()[pri:0, instance:com.newtours.tests.RegistrationTest@29c2c826]" started-at="2023-11-18T11:33:29 IST" name="TestRegistrationFlow2" finished-at="2023-11-18T11:33:43 IST" duration-ms="14238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestRegistrationFlow2 -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:com.newtours.tests.RegistrationTest@29c2c826]" started-at="2023-11-18T11:33:43 IST" name="quitDriver" finished-at="2023-11-18T11:33:43 IST" duration-ms="411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method is-config="true" signature="createDriver(org.testng.ITestContext)[pri:0, instance:com.newtours.tests.RegistrationTest@29c2c826]" started-at="2023-11-18T11:33:43 IST" name="createDriver" finished-at="2023-11-18T11:33:48 IST" duration-ms="4759" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@629dfb5a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method signature="TestRegistrationFlow3()[pri:0, instance:com.newtours.tests.RegistrationTest@29c2c826]" started-at="2023-11-18T11:33:48 IST" name="TestRegistrationFlow3" finished-at="2023-11-18T11:34:03 IST" duration-ms="15200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestRegistrationFlow3 -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:com.newtours.tests.RegistrationTest@29c2c826]" started-at="2023-11-18T11:34:03 IST" name="quitDriver" finished-at="2023-11-18T11:34:04 IST" duration-ms="792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method is-config="true" signature="createDriver(org.testng.ITestContext)[pri:0, instance:com.newtours.tests.RegistrationTest@29c2c826]" started-at="2023-11-18T11:34:04 IST" name="createDriver" finished-at="2023-11-18T11:34:09 IST" duration-ms="4951" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@629dfb5a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method signature="TestRegistrationFlow4()[pri:0, instance:com.newtours.tests.RegistrationTest@29c2c826]" started-at="2023-11-18T11:34:09 IST" name="TestRegistrationFlow4" finished-at="2023-11-18T11:34:25 IST" duration-ms="15706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestRegistrationFlow4 -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:com.newtours.tests.RegistrationTest@29c2c826]" started-at="2023-11-18T11:34:25 IST" name="quitDriver" finished-at="2023-11-18T11:34:26 IST" duration-ms="1108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+        <test-method is-config="true" signature="createDriver(org.testng.ITestContext)[pri:0, instance:com.newtours.tests.RegistrationTest@29c2c826]" started-at="2023-11-18T11:34:26 IST" name="createDriver" finished-at="2023-11-18T11:34:32 IST" duration-ms="5729" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@629dfb5a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method signature="TestRegistrationFlow5()[pri:0, instance:com.newtours.tests.RegistrationTest@29c2c826]" started-at="2023-11-18T11:34:32 IST" name="TestRegistrationFlow5" finished-at="2023-11-18T11:34:47 IST" duration-ms="15075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestRegistrationFlow5 -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:com.newtours.tests.RegistrationTest@29c2c826]" started-at="2023-11-18T11:34:47 IST" name="quitDriver" finished-at="2023-11-18T11:34:47 IST" duration-ms="472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.newtours.tests.RegistrationTest -->
+    </test> <!-- Registration Flow -->
+  </suite> <!-- register-module -->
+</testng-results>
