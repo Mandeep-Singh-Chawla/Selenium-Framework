@@ -41,7 +41,7 @@ public class WebDriverManager {
             System.setProperty("webdriver.chrome.logfile", webDriverBasePath + "chromedriver.log");
             System.setProperty("webdriver.chrome.verboseLogging", "true");
             ChromeOptions options = new ChromeOptions();
-//            options.addArguments("--headless");
+           options.addArguments("--headless");
 
             options.addArguments("--remote-allow-origins=*");
             localWebDriver = new ChromeDriver(options);
