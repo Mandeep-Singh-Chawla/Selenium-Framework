@@ -1,9 +1,0 @@
-com/newtours/elements/RegistrationPageElement.class
-com/newtours/pages/RegistrationConfirmationPage.class
-com/newtours/WebDriverManager.class
-com/newtours/elements/RegistrationConfirmationPageElement.class
-com/newtours/pages/BasePage.class
-com/newtours/pages/RegistrationPage.class
-com/newtours/utils/Log.class
-com/newtours/utils/Utilities.class
-com/newtours/PageManager.class
