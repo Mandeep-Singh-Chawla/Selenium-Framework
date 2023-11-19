@@ -1,4 +1,4 @@
-# selenium-practice
+# practice-selenium
 
 ### To create selenium grid using docker compose
 `cd dockerFiles/`
