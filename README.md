@@ -22,8 +22,8 @@ Install Docker
 
 **browserVersion** values:
 - For chrome 
-  - 110.0
-  - 111.0
+  - 119.0
+
 - For firefox
   - 108.0
   - 109.0
