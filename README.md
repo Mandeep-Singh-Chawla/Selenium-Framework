@@ -1,4 +1,4 @@
-**Selenium Framework** which is very easy to understand especially for new begineers in Web Automation
+**Selenium Framework** 
 
 **Some of Key features**
 
