@@ -1,6 +1,6 @@
 **Selenium Framework** 
 
-**Some of Key features**
+**Some of Key features**:-
 
 1) Have used latest version- Selenium 4 
 2) Support for remote webdriver execution also on Selenium Grid using docker
