@@ -1,3 +1,13 @@
+Selenium Framework which is very easy to understand especially for new begineers in Web Automation
+Some of Key features:-
+
+1) Have used latest version- Selenium 4 
+2) Support for remote webdriver execution also on Selenium Grid using docker
+3) Have used Page Object Model (POM) design pattern
+4) Parallel run, threads- 5
+5) Support to run in headless mode
+6) Allure reports support for Reporting 
+
 # practice-selenium
 
 ### To create selenium grid using docker compose
