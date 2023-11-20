@@ -3,7 +3,7 @@
 **Some of Key features**:-
 
 1) Have used latest version- Selenium 4 
-2) Support for remote webdriver execution also on Selenium Grid using docker
+2) Support for Remote Webdriver execution on Selenium Grid using docker
 3) Have used Page Object Model (POM) design pattern
 4) Parallel run, threads- 5
 5) Support to run in headless mode
