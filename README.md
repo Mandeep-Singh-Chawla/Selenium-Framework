@@ -1,4 +1,5 @@
 Selenium Framework which is very easy to understand especially for new begineers in Web Automation
+
 Some of Key features:-
 
 1) Have used latest version- Selenium 4 
