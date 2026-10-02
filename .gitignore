@@ -1,0 +1,13 @@
+target/
+logs/
+log4j2/
+projects/
+.idea/
+.DS_Store
+*.log
+*.class
+.classpath
+.project
+.settings/
+src/main/resources/chromedriver*
+src/main/resources/geckodriver

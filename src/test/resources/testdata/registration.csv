@@ -1,0 +1,4 @@
+firstName,lastName,phone,email,username,password
+Ava,Patel,5550101234,ava.patel@example.com,ava${unique},Hello@123
+Noah,Singh,5550105678,noah.singh@example.com,noah${unique},Hello@123
+Mia,Khan,5550109012,mia.khan@example.com,mia${unique},Hello@123

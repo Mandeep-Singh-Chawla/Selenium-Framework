@@ -1,0 +1,36 @@
+name: UI tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  registration:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "21"
+          cache: maven
+      - name: Start Selenium Grid
+        run: docker compose -p selenium-infra -f dockerFiles/docker-compose.yml up -d --scale firefox=3 --no-deps selenium-hub firefox
+      - name: Wait for Firefox slots
+        run: |
+          for i in $(seq 1 40); do
+            if curl -sf http://localhost:4444/status | grep -q '"browserName": "firefox"'; then
+              exit 0
+            fi
+            sleep 3
+          done
+          docker compose -p selenium-infra -f dockerFiles/docker-compose.yml logs
+          exit 1
+      - name: Run registration tests
+        run: mvn -B test -DsuiteXmlFile=src/test/resources/suites/registration.xml -Denv=staging -Dretry.count=0
+      - name: Upload Allure results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: allure-results
+          path: target/allure-results

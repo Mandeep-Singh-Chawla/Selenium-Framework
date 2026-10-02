@@ -1,48 +1,41 @@
-**Selenium Framework** using TestNG and Java
+# Selenium Framework
 
-**Some of Key features**:-
+UI tests for Maven, TestNG, and Selenium 4.49. Run them on JDK 21 or 25.
 
-1) Have used latest version- Selenium 4 
-2) Support for Remote Webdriver execution on Selenium Grid using docker
-3) Have used Page Object Model (POM) design pattern
-4) Parallel run, threads- 5
-5) Support to run in headless mode
-6) Allure reports support for Reporting 
+## Layout
 
-# Steps to run
+```text
+src/main/java/com/automation/core       driver, waits, page manager
+src/main/java/com/automation/locators   locators by application
+src/main/java/com/automation/pages      page actions by application
+src/main/java/com/automation/utils      config, logging, CSV data, screenshots
+src/main/resources/config               base config plus qa and staging overrides
+src/test/java/com/automation/tests      tests
+src/test/resources/suites               TestNG suites
+src/test/resources/testdata             CSV input
+dockerFiles/docker-compose.yml          Selenium Grid
+```
 
-### To create selenium grid using docker compose
-Install Docker
+## Grid
 
-`cd dockerFiles/`
+From the repository root:
 
-`docker-compose -p selenium-infra up --scale firefox_108=2 --scale firefox_109=2 --scale chrome_111=2 --scale chrome_110=2 --force-recreate -d
-`
+```bash
+docker compose -p selenium-infra -f dockerFiles/docker-compose.yml up -d --scale firefox=3 --no-deps selenium-hub firefox
+```
 
+That starts Selenium Hub 4.46 with Firefox 152. Add `chrome` to the command when a test needs Chrome 150.
 
-### Local webdriver execution:
-`mvn clean test -DmoduleName=Registration -Dbrowser=chrome -Dhost=local`
+## Tests
 
+```bash
+mvn test -DsuiteXmlFile=src/test/resources/suites/registration.xml -Denv=staging -Dretry.count=0
+mvn test -DsuiteXmlFile=src/test/resources/suites/amazon.xml -Denv=staging
+mvn test
+```
 
-### Remote webdriver execution on Selenium Grid:
-`mvn clean test -DmoduleName=Registration -Dbrowser=chrome -Dhost=grid -DhubUrl=localhost -DbrowserVersion=110.0`
+`mvn test` runs `src/test/resources/suites/regression.xml`. The Amazon suite is separate because Amazon often blocks automated browsers.
 
+`-Denv=qa` is the default and uses a local browser. `-Denv=staging` uses the Docker Grid. Any `-Dbrowser`, `-Dhost`, `-DhubUrl`, or `-Dbrowser.version` value overrides the property file.
 
-**browser** values:
-- chrome
-- firefox
-
-**browserVersion** values:
-- For chrome 
-  - 119.0
-
-- For firefox
-  - 108.0
-  - 109.0
-
-**host** values:
-- local
-- grid
-
-**moduleName** values (TestNG XML file):
-- Registration
+Registration rows live in `src/test/resources/testdata/registration.csv`. Amazon search terms live in `src/test/resources/testdata/amazon.xlsx`. A `${unique}` token in a CSV cell becomes a new value on each read.
